@@ -10,7 +10,7 @@ To be able to run this project we need to install the following libraries:
 - Seaborn
 
 ## Data
-The Penguin dataset (in CSV format) can be downloaded from here.
+The Penguin dataset (in CSV format) can be loaded from here: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv
 
 ## Usage
 The code in this project can be run using Jupyter Notebook. The code performs the following steps:
